@@ -1,0 +1,15 @@
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\bin\Debug\net7.0\ProyectoDePruebaApiOzona.exe
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\bin\Debug\net7.0\ProyectoDePruebaApiOzona.deps.json
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\bin\Debug\net7.0\ProyectoDePruebaApiOzona.runtimeconfig.json
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\bin\Debug\net7.0\ProyectoDePruebaApiOzona.dll
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\bin\Debug\net7.0\ProyectoDePruebaApiOzona.pdb
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\ProyectoDePruebaApiOzona.csproj.AssemblyReference.cache
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\ProyectoDePruebaApiOzona.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\ProyectoDePruebaApiOzona.AssemblyInfoInputs.cache
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\ProyectoDePruebaApiOzona.AssemblyInfo.cs
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\ProyectoDePruebaApiOzona.csproj.CoreCompileInputs.cache
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\ProyectoDePruebaApiOzona.dll
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\refint\ProyectoDePruebaApiOzona.dll
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\ProyectoDePruebaApiOzona.pdb
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\ProyectoDePruebaApiOzona.genruntimeconfig.cache
+D:\PracticasGitOzona\ProyectoDePruebaApiOzona\obj\Debug\net7.0\ref\ProyectoDePruebaApiOzona.dll
